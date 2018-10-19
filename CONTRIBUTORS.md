@@ -492,3 +492,8 @@
 - Place: Akron, USA
 - Bio: Student at the University of Akron
 - Github: [jpquinn1](https://github.com/jpquinn1)
+
+#### Name: [Eduard Scaueru](https://github.com/EdwardMamba24)
+- Place: Drobeta-Turnu Severin, Mehedinti, Romania
+- Bio: Student at CNGT, I like coding in C,C#,C++ and Python.
+- GitHub: [EdwardMamba24](https://github.com/EdwardMamba24)
